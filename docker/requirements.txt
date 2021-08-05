@@ -1,0 +1,6 @@
+pyomo
+pandas
+numpy
+pydantic
+fastapi==0.62.0
+uvicorn==0.13.1
